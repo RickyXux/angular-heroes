@@ -24,11 +24,4 @@ var AppComponent = (function () {
     return AppComponent;
 }());
 exports.AppComponent = AppComponent;
-var AppComponent = (function () {
-    function AppComponent() {
-        this.name = 'Angular';
-    }
-    return AppComponent;
-}());
-exports.AppComponent = AppComponent;
 //# sourceMappingURL=app.component.js.map
